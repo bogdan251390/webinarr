@@ -1530,6 +1530,12 @@ display: none;
             flex: 0 1 100%;
   }
 
+  .content-footer {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+
   .social-footer__column {
     margin-bottom: 10px;
   }
