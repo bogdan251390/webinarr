@@ -1085,7 +1085,7 @@ body {
   }
 
   .hero {
-    background: url("../img/hero/1.webp") center right no-repeat;
+    background-position: center right;
     background-size: cover;
   }
 
