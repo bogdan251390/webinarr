@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
-   AOS.init();
+
 
 
    let countDownDate = new Date("May 26,2021 12:00:00").getTime();
