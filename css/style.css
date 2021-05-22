@@ -223,7 +223,7 @@ body {
 }
 
 .hero {
-  background: url("../img/hero/1.jpg") 0 0 no-repeat;
+  background: url("../img/hero/1.webp") 0 0 no-repeat;
   background-size: cover;
   padding-top: 40px;
   padding-bottom: 170px;
@@ -1079,7 +1079,7 @@ body {
   }
 
   .hero {
-    background: url("../img/hero/1.jpg") center right no-repeat;
+    background: url("../img/hero/1.webp") center right no-repeat;
     background-size: cover;
   }
 
